@@ -1,1 +1,1 @@
-Este repositório contém o meu treinamento do Intensivão de Python.
+Este repositório contém o meu treinamento do Intensivão de Python da Hashtag Treinamentos.
