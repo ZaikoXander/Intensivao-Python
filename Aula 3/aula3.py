@@ -23,6 +23,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By as By
+from IPython.display import display
+import pandas as pd
 
 # Abrir navegador
 
@@ -56,9 +58,6 @@ navegador.quit()
 # ### Agora vamos atualiza a nossa base de preços com as novas cotações
 
 # - Importando a base de dados
-
-from IPython.display import display
-import pandas as pd
 
 tabela = pd.read_excel('Produtos.xlsx')
 
